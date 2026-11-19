@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JetLagged</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_sleep">Sueño</string>
+    <string name="nav_settings">Ajustes</string>
+
+    <string name="tab_day">Día</string>
+    <string name="tab_week">Semana</string>
+    <string name="tab_month">Mes</string>
+
+    <string name="avg_time_in_bed">Tiempo promedio en cama</string>
+    <string name="avg_sleep_time">Tiempo promedio de sueño</string>
+    <string name="syncing_data">Sincronizando datos del sueño…</string>
+
+    <string name="sleep_mode_title">Modo de siesta y relajación</string>
+    <string name="sleep_mode_subtitle">El brillo de la pantalla está al mínimo. El audio ambiental relajante está activado.</string>
+    <string name="pause_audio">Pausar audio</string>
+    <string name="play_audio">Reproducir audio</string>
+    <string name="exit_sleep_mode">Finalizar siesta</string>
+
+    <string name="settings_title">Ajustes</string>
+    <string name="dark_mode_title">Modo oscuro</string>
+    <string name="dark_mode_desc">Cambiar a una paleta de colores tenue</string>
+    <string name="language_title">Idioma</string>
+    <string name="language_desc">Selecciona el idioma de la aplicación</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Español</string>
+
+    <string name="wellness_heading">Bienestar</string>
+    <string name="snoring_heading">Ronquidos</string>
+    <string name="coughing_heading">Tos</string>
+    <string name="respiration_heading">Respiración</string>
+    <string name="heart_rate_heading">Frecuencia cardíaca</string>
+    <string name="not_implemented">No implementado</string>
+    <string name="jetlagged_app_heading">JetLagged</string>
+    <string name="sleep_type_awake">Despierto</string>
+    <string name="sleep_type_rem">REM</string>
+    <string name="sleep_type_light">Ligero</string>
+    <string name="sleep_type_deep">Profundo</string>
+    <string name="metric_minutes">min</string>
+    <string name="metric_times">veces</string>
+    <string name="metric_rpm">rpm</string>
+    <string name="heart_rate_unit">lpm</string>
+    <string name="restore_brightness">Restaurar brillo</string>
+    <string name="dim_brightness">Bajar brillo (modo sueño)</string>
+</resources>
