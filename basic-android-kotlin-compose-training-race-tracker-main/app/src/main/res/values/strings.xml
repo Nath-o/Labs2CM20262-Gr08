@@ -1,0 +1,37 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Race tracker</string>
+    <string name="run_a_race">Simulación de Carrera</string>
+    <string name="pause">Pausar</string>
+    <string name="start">Iniciar</string>
+    <string name="reset">Reiniciar</string>
+    <string name="progress_percentage">%1$d%%</string>
+    <string name="player_one_name">Corredor 1</string>
+    <string name="player_two_name">Corredor 2</string>
+    <string name="track_length_title">Longitud de la Pista</string>
+    <string name="meters_unit">%1$dm</string>
+    <string name="setup_competitors">Configuración de la Carrera</string>
+    <string name="add_competitor">Agregar Corredor</string>
+    <string name="remove_competitor">Eliminar</string>
+    <string name="competitor_name_label">Nombre del corredor</string>
+    <string name="competitor_color_label">Color de la barra:</string>
+    <string name="speed_label">Velocidad: %1$d m/s</string>
+    <string name="start_race">Ir a la Carrera</string>
+    <string name="back_to_setup">Volver a Configuración</string>
+    <string name="progress_meters">%1$dm / %2$dm</string>
+    <string name="competitor_number">Corredor %1$d</string>
+</resources>
